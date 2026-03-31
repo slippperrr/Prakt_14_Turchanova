@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prakt_14_Turchanova</string>
+    <string name="task">Добавить задачу</string>
+    <string name="zagolovok_task">Заголовок задачи</string>
+    <string name="time">16:30</string>
+    <string name="data">14.01.2021</string>
+    <string name="opis">Описание задачи</string>
+    <string name="zapis">Записать задачу</string>
+</resources>
