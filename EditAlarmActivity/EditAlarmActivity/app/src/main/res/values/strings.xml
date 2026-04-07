@@ -1,0 +1,15 @@
+<resources>
+    <string name="Edit">Изменить будильник</string>
+    <string name="time">16:30</string>
+    <string name="data">14.01.2021</string>
+    <string name="rep">Повторять каждый день</string>
+    <string name="mon">Понедельник</string>
+    <string name="tue">Вторник</string>
+    <string name="wen">Среда</string>
+    <string name="th">Четверг</string>
+    <string name="fri">Пятница</string>
+    <string name="sut">Суббота</string>
+    <string name="sun">Воскресенье</string>
+    <string name="ud">Удалить будильник</string>
+    <string name="save">Сохранить будильник</string>
+</resources>
